@@ -1,3 +1,6 @@
 chleb		3.50
 jajka 		8.00
 masło		5.50
+ryż			20.00
+cukierki	12.00
+czekolada	5.20
