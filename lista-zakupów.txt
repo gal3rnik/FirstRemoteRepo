@@ -1,9 +1,7 @@
 chleb		3.50
 jajka 		8.00
-<<<<<<< HEAD
-masło		5.50
-=======
 masło		5.50
 ryż			3.20
 cukierki 	20.00
->>>>>>> origin
+czekolada	5.20
+
